@@ -30,24 +30,6 @@ O coração desta API utiliza três padrões fundamentais recomendados pela DIO:
 
 ---
 
-## 📦 Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/RamonFerreira1/Loja_NR_SpringBoot.git](https://github.com/RamonFerreira1/Loja_NR_SpringBoot.git)
-
-```
-
-2. No terminal, execute o Maven para baixar as dependências:
-```bash
-mvn clean install
-
-```
-
-
-3. Rode a aplicação através da classe `ApiApplication.java`.
-
----
 
 ## 🔍 Testando a API
 
