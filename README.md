@@ -1,5 +1,9 @@
 
 # 🍫 NR Brownies & Bolos - API de Gestão
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 Esta é uma API robusta desenvolvida com **Spring Boot** para gerenciar as vendas e o estoque da doceria NR Brownies & Bolos. O projeto foi construído focando em **Design Patterns** para garantir um código limpo, escalável e de fácil manutenção.
 
@@ -61,5 +65,15 @@ Lá você poderá testar o endpoint de checkout enviando um JSON como este:
 ```
 
 ```
+🧠 Desafios Superados & Aprendizados
+Durante o desenvolvimento desta API, enfrentei e resolvi desafios técnicos reais que aprimoraram minha compreensão sobre o ecossistema Java:
+
+Sincronização de Dependências: Resolvi erros de compilação onde o VS Code não reconhecia as bibliotecas do Spring Boot, utilizando o Maven para reconstruir o projeto (mvn clean install) e sincronizando a configuração do workspace.
+
+Gestão de Banco de Dados H2: Solucionei a exceção Table "PRODUTO" not found ajustando a propriedade spring.jpa.defer-datasource-initialization, garantindo que o Hibernate criasse as tabelas antes da execução do script de carga de dados (data.sql).
+
+Arquitetura de Pastas: Corrigi problemas de pacotes (package does not exist) reorganizando a estrutura de diretórios para seguir rigorosamente o padrão de pacotes do Java dentro de src/main/java.
+
+Versionamento Profissional: Consolidei o uso do Git para gerenciar o histórico de alterações e preparar o projeto para o deploy no GitHub.
 
 
