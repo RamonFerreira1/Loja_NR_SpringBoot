@@ -1,12 +1,4 @@
-Ramon, criar um `README.md` profissional é como colocar a "cereja no topo do bolo" do seu projeto da **NR Brownies & Bolos**. É o que vai explicar para um recrutador ou para seus professores na UFAL toda a inteligência que você colocou por trás do código.
 
-Para fazer isso, você só precisa criar um arquivo chamado **`README.md`** na pasta raiz do seu projeto no VS Code e colar o conteúdo abaixo:
-
----
-
-### Estrutura Sugerida para o seu README
-
-```markdown
 # 🍫 NR Brownies & Bolos - API de Gestão
 
 Esta é uma API robusta desenvolvida com **Spring Boot** para gerenciar as vendas e o estoque da doceria NR Brownies & Bolos. O projeto foi construído focando em **Design Patterns** para garantir um código limpo, escalável e de fácil manutenção.
