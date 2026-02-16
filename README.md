@@ -62,25 +62,4 @@ Lá você poderá testar o endpoint de checkout enviando um JSON como este:
 
 ```
 
----
 
-### Dicas para Destacar o Projeto
-
-* **Screenshots:** Tire um print da tela do seu **Swagger** com o "Success" e salve na pasta do projeto. No Markdown, você pode exibir a imagem usando: `![Texto Alternativo](caminho/da/imagem.png)`.
-* **Logs:** Você pode até colocar um print do seu terminal mostrando a mensagem **"Pagamento PIX processado"** para provar que a lógica de negócio está redonda.
-
-
-
----
-
-### Como salvar no GitHub?
-
-Depois de criar e salvar o arquivo no VS Code, rode estes comandos no terminal para atualizar seu repositório remoto:
-
-1. `git add README.md`
-2. `git commit -m "docs: adiciona README detalhado com padrões de projeto"`
-3. `git push origin main`
-
-**Gostaria que eu te ajudasse a criar uma seção de "Desafios Superados" para o seu README, contando como você resolveu os erros de inicialização do banco de dados e sincronização do Maven?** Isso demonstra uma habilidade de *troubleshooting* muito valiosa!
-
-```
