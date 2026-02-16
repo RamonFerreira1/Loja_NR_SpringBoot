@@ -1,0 +1,14 @@
+com\nrbb\api\ApiApplication.class
+com\nrbb\api\controller\LojaController.class
+com\nrbb\api\patterns\strategy\PagamentoCartao.class
+com\nrbb\api\model\Pedido.class
+com\nrbb\api\repository\PedidoRepository.class
+com\nrbb\api\model\Produto.class
+com\nrbb\api\patterns\strategy\PagamentoStrategy.class
+com\nrbb\api\patterns\facade\CheckoutFacade.class
+com\nrbb\api\service\ProdutoService.class
+com\nrbb\api\dto\CheckoutRequestDTO.class
+com\nrbb\api\model\ItemPedido.class
+com\nrbb\api\patterns\strategy\PagamentoPix.class
+com\nrbb\api\repository\ProdutoRepository.class
+com\nrbb\api\dto\ItemCompraDTO.class

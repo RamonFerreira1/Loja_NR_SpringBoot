@@ -1,0 +1,14 @@
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\model\Pedido.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\model\ItemPedido.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\patterns\strategy\PagamentoCartao.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\patterns\strategy\PagamentoPix.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\service\ProdutoService.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\controller\LojaController.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\repository\PedidoRepository.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\dto\ItemCompraDTO.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\patterns\facade\CheckoutFacade.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\patterns\strategy\PagamentoStrategy.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\ApiApplication.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\dto\CheckoutRequestDTO.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\model\Produto.java
+C:\Users\Ramon\Desktop\API NR\src\main\java\com\nrbb\api\repository\ProdutoRepository.java
